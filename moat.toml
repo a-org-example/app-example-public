@@ -1,0 +1,2 @@
+[checks]
+repositories_fork_pull_requests_require_approval = "off"
