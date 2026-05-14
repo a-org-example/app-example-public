@@ -1,3 +1,2 @@
 [checks]
-repositories_commits_are_signed = "off"
-repositories_workflow_actions_are_pinned = "off"
+repositories_have_security_policy = "off"
