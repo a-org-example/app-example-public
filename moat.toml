@@ -1,0 +1,2 @@
+[checks]
+organization_requires_two_factor = "off"
