@@ -1,2 +1,2 @@
 [checks]
-repositories_commits_are_signed = "off"
+repositories_fork_pull_requests_require_approval = "off"
