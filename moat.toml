@@ -1,3 +1,2 @@
 [checks]
-repositories_totally_made_up_check = "off"
 repositories_workflow_actions_are_pinned = "off"
